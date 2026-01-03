@@ -1,1 +1,1 @@
-city : kerala
+city : banglore
